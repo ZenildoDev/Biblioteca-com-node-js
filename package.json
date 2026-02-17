@@ -17,5 +17,8 @@
     "url": "https://github.com/ZenildoDev/Biblioteca-com-node-js/issues"
   },
   "homepage": "https://github.com/ZenildoDev/Biblioteca-com-node-js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
 }
